@@ -1,2 +1,0 @@
-# SpamPort
-Simple PortSpammer ^-^
