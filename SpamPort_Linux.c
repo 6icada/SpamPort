@@ -18,7 +18,7 @@ int main(int argc, char *argv[]){
 		//Checking argc and argv[]
 		if(argc == 1){
 			//MSG
-			printf("Type \"./test16 -h\" for help\n");
+			printf("Type \"./SpamPort_Linux -h\" for help\n");
 		}
 		else if(argc == 2){
 			//String compare
